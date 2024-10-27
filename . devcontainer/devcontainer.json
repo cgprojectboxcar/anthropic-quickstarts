@@ -1,0 +1,12 @@
+{
+      "build": {
+          "dockerfile": "./computer-use-demo/Dockerfile"  // Adjust the path as needed
+            },
+              "customizations": {
+                  "vscode": {
+                        "extensions": [
+                                "ms-azuretools.vscode-docker"  // Optionally add extensions for development
+                                      ]
+                                    }
+                                }
+                            }
